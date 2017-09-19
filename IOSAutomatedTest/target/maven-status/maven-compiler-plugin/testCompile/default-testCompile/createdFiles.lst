@@ -1,0 +1,6 @@
+com/mymm/AppiumSetup.class
+com/mymm/screen/SplashScreen.class
+com/mymm/MMsolo.class
+com/mymm/screen/TuturialScreen.class
+com/mymm/testCase/LoginTest.class
+com/mymm/screen/LandingScreen.class
